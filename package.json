@@ -11,6 +11,7 @@
     "test": "vitest run"
   },
   "dependencies": {
+    "@noble/curves": "2.4.0",
     "@noble/hashes": "2.4.0",
     "nostr-tools": "2.25.5",
     "qrcode": "1.5.4",
